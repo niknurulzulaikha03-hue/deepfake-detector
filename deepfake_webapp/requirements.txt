@@ -1,0 +1,8 @@
+flask
+tensorflow==2.13.0
+mediapipe==0.10.14
+opencv-python==4.7.0.72
+moviepy==1.0.3
+librosa
+scikit-learn
+numpy==1.24.3
